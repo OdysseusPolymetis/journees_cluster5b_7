@@ -8,4 +8,4 @@ Les notebooks, focalisés sur le grec et le latin, portent sur :
 - 3, le **traitement automatique** du latin et du grec via Bi-LSTM et transformers,
 - 4, la reconnaissance d'**entités nommées** et la représentation en **réseau**.
 <br>
-Vous trouverez, sur chacun des notebooks, un lien vers Colab.
+Vous trouverez, sur chacun des notebooks, un lien vers Colab. Vous avez aussi accès aux diapositives de l'atelier, en PDF.
